@@ -1,0 +1,14 @@
+img {
+  display: block;
+  margin: auto;
+  width: 30%;
+}
+body {
+  background-color: grey;
+}
+.highlight {
+  background-color: white;
+}
+div.d {
+  text-align: justify;
+}
